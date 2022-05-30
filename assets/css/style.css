@@ -4888,12 +4888,14 @@ hr {
 /* line 24, C:/Users/HP/Desktop/jun-2020/281.Magazine_News/assets/scss/_top-post.scss */
 .top-post-area .single-job-items .company-img img {
   margin-right: 32px;
+  max-width: 200px;
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   /* line 24, C:/Users/HP/Desktop/jun-2020/281.Magazine_News/assets/scss/_top-post.scss */
   .top-post-area .single-job-items .company-img img {
     margin-bottom: 20px;
+    max-width: 200px;
   }
 }
 
