@@ -40,77 +40,7 @@
     <!-- Preloader Start -->
     <header>
         <!-- Header Start -->
-       <div class="header-area">
-            <div class="main-header ">
-                <div class="header-top ">
-                   <div class="container-fluid">
-                       <div class="col-xl-12">
-                            <div class="row d-flex justify-content-lg-between align-items-center">
-                                <div class="header-info-left">
-                                    <li class="d-none d-lg-block">
-                                        <div class="form-box f-right ">
-                                            <input type="text" name="Search" placeholder="Search your interest...">
-                                            <div class="search-icon">
-                                                <i class="ti-search"></i>
-                                            </div>
-                                        </div>
-                                     </li>
-                                </div>
-                                <div class="header-info-mid">
-                                    <!-- logo -->
-                                    <div class="logo">
-                                        <a href="index.html"><h1>Matt</h1></a>
-                                    </div>
-                                </div>
-                                <div class="header-info-right d-flex align-items-center">
-                                   <ul>                                          
-                                       <li><a href="">About</a></li>
-                                       <li><a href="contact.html">Contact</a></li>
-                                   </ul>
-                                   <!-- Social -->
-                                   <div class="header-social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                       </div>
-                   </div>
-                </div>
-               <div class="header-bottom  header-sticky">
-                    <div class="container-fluid">
-                        <div class="row align-items-center">
-                            <div class="col-12">
-                                <!-- logo 2 -->
-                                <div class="logo2">
-                                    <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
-                                </div>
-                                <!-- logo 3 -->
-                                <div class="logo3 d-block d-sm-none">
-                                    <a href="index.html"><img src="assets/img/logo/logo-mobile.png" alt=""></a>
-                                </div>
-                                <!-- Main-menu -->
-                                <div class="main-menu text-center d-none d-lg-block">
-                                    <nav>                                                
-                                        <ul id="navigation">                                                                                                                                     
-                                            <li><a href="category.html">Art</a></li>
-                                            <li><a href="category.html">Fashion</a></li>
-                                            <li><a href="category.html">Lifestyle</a></li>
-                                            <li><a href="category.html">Places</a></li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                            </div> 
-                            <!-- Mobile Menu -->
-                            <div class="col-12">
-                                <div class="mobile_menu d-block d-lg-none"></div>
-                            </div>
-                        </div>
-                    </div>
-               </div>
-            </div>
-       </div>
+        <my-header></my-header> 
         <!-- Header End -->
     </header>
     <main>
@@ -236,56 +166,7 @@
         <!-- Latest Posts End-->
     </main>
     <footer>
-        <!-- Footer Start-->
-        <div class="footer-area footer-padding">
-            <div class="header-area">
-                <div class="main-header ">
-                    <div class="header-top d-none d-lg-block">
-                       <div class="container">
-                           <div class="col-xl-12">
-                                <div class="row d-flex justify-content-between align-items-center">
-                                    <div class="header-info-left d-flex">
-                                        <!-- Social -->
-                                        <div class="header-social">
-                                            <a href="#"><i class="fab fa-twitter"></i></a>
-                                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                            <a href="#"><i class="fab fa-instagram"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="header-info-mid">
-                                        <!-- logo -->
-                                        <div class="logo">
-                                            <a href="index.html"><h1>Matt</h1>></a>
-                                        </div>
-                                    </div>
-                                    <div class="header-info-right d-flex align-items-center">
-                                       <ul>                                          
-                                           <li><a href="#">About</a></li>
-                                           <li><a href="#">Contact</a></li>
-                                       </ul>
-                                    </div>
-                                </div>
-                           </div>
-                       </div>
-                    </div>
-                </div>
-           </div>
-        </div>
-        <!-- footer-bottom area -->
-        <div class="footer-bottom-area">
-            <div class="container">
-                <div class="footer-border">
-                    <div class="row align-items-center justify-content-center">
-                        <div class="col-xl-9 col-lg-8">
-                            <div class="footer-copy-right text-center">
-                                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <my-footer></my-footer>
         <!-- Footer End-->
     </footer>
     <!-- Scroll Up -->
@@ -294,6 +175,12 @@
     </div>
 
     <!-- JS here -->
+
+    <!-- Custom Elements -->
+    <script src="./assets/js/myElements.js"></script>
+
+    <!-- Search bar -->
+    <script src="./assets/js/searchSugg.js"></script>
 
     <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
     <!-- Jquery, Popper, Bootstrap -->
