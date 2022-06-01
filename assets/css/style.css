@@ -3516,6 +3516,40 @@ hr {
   font-size: 18px;
 }
 
+.header-area .header-top .header-info-left .form-box .autocom-box {
+  background-color: #ffffff;
+  padding: 0px;
+  max-height: 280px;
+  overflow-y: auto;
+  opacity: 0;
+  pointer-events: none;
+  position: absolute;
+  z-index: 10;
+}
+
+.header-area .header-top .header-info-left .form-box.active .autocom-box {
+  padding: 10px 8px;
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.header-area .header-top .header-info-left .autocom-box li {
+  list-style: none;
+  padding: 8px 12px;
+  width: 100%;
+  cursor: default;
+  border-radius: 3px;
+  display: none;
+}
+
+.header-area .header-top .header-info-left .form-box.active .autocom-box li {
+  display: block;
+}
+
+.header-area .header-top .header-info-left .autocom-box li:hover{
+  background: #efefef;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   /* line 88, C:/Users/HP/Desktop/jun-2020/281.Magazine_News/assets/scss/_headerMenu.scss */
   .header-area .header-top .header-info-mid {
