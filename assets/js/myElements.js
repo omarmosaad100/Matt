@@ -169,7 +169,7 @@ class myArtLatest extends HTMLElement {
                                     <img src="assets/img/articles/S5 Puppet show/img3 cropped.JPG" alt="">
                                 </div>
                                 <div class="banner-cap2">
-                                    <h3><a href="_S5_puppet_show.html">A show that has been going for five thousand years</a></h3>
+                                    <h3><a href="a_S5_puppet_show.html">A show that has been going for five thousand years</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -181,7 +181,7 @@ class myArtLatest extends HTMLElement {
                                     <img src="assets/img/articles/H2 Fo5ar/img2.jpeg" alt="">
                                 </div>
                                 <div class="banner-cap2">
-                                   <h3><a href="_H2_Fokhar.html">Fokhar.. The Art of patience</a></h3>
+                                   <h3><a href="a_H2_Fokhar.html">Fokhar.. The Art of patience</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -193,7 +193,7 @@ class myArtLatest extends HTMLElement {
                                     <img src="assets/img/articles/S2 Museum/img3 cropped.JPG" alt="">
                                 </div>
                                 <div class="banner-cap2">
-                                   <h3><a href="_S2_Museum.html">A Museum of Art, but this time, feeling a bit different</a></h3>
+                                   <h3><a href="a_S2_Museum.html">A Museum of Art, but this time, feeling a bit different</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -225,7 +225,7 @@ class myFashionLatest extends HTMLElement {
                                     <img src="assets/img/articles/HM4 Made In Egypt/img2.jpeg" alt="">
                                 </div>
                                 <div class="banner-cap2">
-                                    <h3><a href="_HM4_Made_in_Egypt.html">Made in Egypt</a></h3>
+                                    <h3><a href="a_HM4_Made_in_Egypt.html">Made in Egypt</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -237,7 +237,7 @@ class myFashionLatest extends HTMLElement {
                                     <img src="assets/img/articles/HM6 Wekala/wekala2.jpeg" alt="">
                                 </div>
                                 <div class="banner-cap2">
-                                   <h3><a href="_HM6_Wekala.html">Yes, mom, I thrifted AGAIN at the Wekala</a></h3>
+                                   <h3><a href="a_HM6_Wekala.html">Yes, mom, I thrifted AGAIN at the Wekala</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -249,7 +249,7 @@ class myFashionLatest extends HTMLElement {
                                     <img src="assets/img/articles/HM1  Extinction of Galabeya/img3 cropped.jpeg" alt="">
                                 </div>
                                 <div class="banner-cap2">
-                                   <h3><a href="_HM1_The_extinction_of_galabeya.html">How it started, and how it's ending.. The Extinction of Galabeya</a></h3>
+                                   <h3><a href="a_HM1_The_extinction_of_galabeya.html">How it started, and how it's ending.. The Extinction of Galabeya</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -280,7 +280,7 @@ class myLifestyleLatest extends HTMLElement {
                                     <img src="assets/img/articles/M6 Zoo/zoo2.jpeg" alt="">
                                 </div>
                                 <div class="banner-cap2">
-                                    <h3><a href="_M6_Zoo.html">Zoo: Putting animals in cages for visitors to enjoy their day</a></h3>
+                                    <h3><a href="a_M6_Zoo.html">Zoo: Putting animals in cages for visitors to enjoy their day</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -292,7 +292,7 @@ class myLifestyleLatest extends HTMLElement {
                                     <img src="assets/img/articles/O6 kids life style/img3.jpeg" alt="">
                                 </div>
                                 <div class="banner-cap2">
-                                   <h3><a href="_O6_kids_lifestyle.html">Will technology create a lazy generation?</a></h3>
+                                   <h3><a href="a_O6_kids_lifestyle.html">Will technology create a lazy generation?</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -304,7 +304,7 @@ class myLifestyleLatest extends HTMLElement {
                                     <img src="assets/img/articles/R1 Therapy/img2.jpeg" alt="">
                                 </div>
                                 <div class="banner-cap2">
-                                   <h3><a href="_R1_Therapy.html">Therapy: A Way to Improve Your General Health</a></h3>
+                                   <h3><a href="a_R1_Therapy.html">Therapy: A Way to Improve Your General Health</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -335,7 +335,7 @@ class myPlacesLatest extends HTMLElement {
                                     <img src="assets/img/articles/O8 Circus/img4.jpeg" alt="">
                                 </div>
                                 <div class="banner-cap2">
-                                    <h3><a href="_O8_Circus.html">A show that only kids love: The National Circus of Agouza</a></h3>
+                                    <h3><a href="a_O8_Circus.html">A show that only kids love: The National Circus of Agouza</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -347,7 +347,7 @@ class myPlacesLatest extends HTMLElement {
                                     <img src="assets/img/articles/H1 Darb 18/img3 cropped.jpeg" alt="">
                                 </div>
                                 <div class="banner-cap2">
-                                   <h3><a href="_H1_Darb_18.html">The cultural hub of Darb 17 18</a></h3>
+                                   <h3><a href="a_H1_Darb_18.html">The cultural hub of Darb 17 18</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -359,7 +359,7 @@ class myPlacesLatest extends HTMLElement {
                                     <img src="assets/img/articles/O1 Gezira/img4.jpeg" alt="">
                                 </div>
                                 <div class="banner-cap2">
-                                   <h3><a href="_O1_Gezira.html">Geziret El Dahab: A couple of kilometers away from heaven</a></h3>
+                                   <h3><a href="a_O1_Gezira.html">Geziret El Dahab: A couple of kilometers away from heaven</a></h3>
                                 </div>
                             </div>
                         </div>
